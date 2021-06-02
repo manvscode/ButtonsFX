@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: #444444;
+}
+
+Button {
+    -fx-background-color: red;
+    -fx-stroke: black;
+    -fx-stroke-width: 1px;
+    -fx-text-fill: white;
+    -fx-font-family: Verdana;
+}
